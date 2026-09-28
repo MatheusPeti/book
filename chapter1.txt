@@ -1,2 +1,2 @@
-// Chapter 1: A quiet morning
+// Chapter 1: A Different Beginning
 // Once upon a time, a Git repo was born.
